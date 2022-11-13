@@ -74,7 +74,7 @@ authors = [
 #{'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM'},
 #{'name': 'S.~Nissanke', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands'], 'email': 's.m.nissanke@UVA.NL'},
 {'name': 'K.~Noonan', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'kyle.noonan86@gmail.com'},
-#{'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH'},
+{'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@narit.or.th'},
 {'name': 'N.~B.~Orange', 'affiliations': ['OrangeWave Innovative Science, LLC, Moncks Corner, SC 29461, USA'], 'email': 'orangewaveno@GMAIL.COM'},
 #{'name': 'J.~Peloton', 'affiliations': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 'email': 'peloton@LAL.IN2P3.FR'},
 {'name': 'T.~Pradier', 'affiliations': ["Universit\\'e de Strasbourg, CNRS, IPHC UMR 7178, F-67000 Strasbourg, France"], 'email': 'thierry.pradier@IPHC.CNRS.FR'},
